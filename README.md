@@ -30,7 +30,7 @@ A real-time interactive dashboard built with **Python (Dash, Plotly, Pandas)** t
    git clone https://github.com/JevNest/iss-tracking-dashboard.git
    cd iss-tracking-dashboard
 2. Install dependencies:
-   '''bash
+   ```bash
   !pip install Dash
   !pip install pandas
   !pip install datetime
