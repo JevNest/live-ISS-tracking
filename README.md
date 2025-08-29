@@ -36,3 +36,5 @@ A real-time interactive dashboard built with **Python (Dash, Plotly, Pandas)** t
    !pip install datetime
    !pip install pytz
  3. Run the app:
+    ```bash
+    python live_iss_tracking.py
