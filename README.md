@@ -4,7 +4,7 @@ A real-time interactive dashboard built with **Python (Dash, Plotly, Pandas)** t
 
 ## Features
 - Fetches the **current position of the ISS** every few seconds using the public API.  
-- Displays the ISS trail (last N positions) on a world map.  
+- Displays the ISS trail (last 100 positions) on a world map.  
 - Highlights the current ISS location with a marker.  
 - Automatic refresh using `dcc.Interval`.  
 - Built with **Dash (Plotly)** for real-time visualization.  
