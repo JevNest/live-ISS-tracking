@@ -35,5 +35,4 @@ A real-time interactive dashboard built with **Python (Dash, Plotly, Pandas)** t
    !pip install pandas
    !pip install datetime
    !pip install pytz
- 3. Run the Script:
- 4. 
+ 3. Run the app:
