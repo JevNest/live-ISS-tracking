@@ -10,7 +10,7 @@ A real-time interactive dashboard built with **Python (Dash, Plotly, Pandas)** t
 - Built with **Dash (Plotly)** for real-time visualization.  
 
 ## Project Structure
-- `app.py` → Main Dash application (your script).  
+- `app.py` → Main Dash application.  
 - Uses:
   - `requests` → Fetch API data  
   - `pandas` → Manage ISS trail history  
@@ -29,3 +29,11 @@ A real-time interactive dashboard built with **Python (Dash, Plotly, Pandas)** t
    ```bash
    git clone https://github.com/JevNest/iss-tracking-dashboard.git
    cd iss-tracking-dashboard
+2. Install dependencies:
+   '''bash
+  !pip install Dash
+  !pip install pandas
+  !pip install datetime
+  !pip install pytz
+ 3. Run the Script:
+ 4. 
